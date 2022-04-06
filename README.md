@@ -13,7 +13,7 @@ This is kind of a contdown function. It's use nice digital counters .
 - Get Finish Function: Such as handler.removeCallbacks(runnable)  
 
 
-## Installation
+## ⚙Installation
 
 Install my-project with https://jitpack.io/
 
@@ -52,7 +52,7 @@ Install my-project with https://jitpack.io/
         }
 ```
 
-## Optinal Buttons
+## 🗄Optinal Buttons
 
 ```javascript
     countView.buttons(
@@ -61,17 +61,10 @@ Install my-project with https://jitpack.io/
 ```
 
 
-## Screenshots
+## 🎬Screenshots & Gifs
 
+<img src="https://user-images.githubusercontent.com/53067774/161928802-a8776940-eac1-4cad-bb1e-e1f1191ed244.jpg" width="18%"></img> <img src="https://user-images.githubusercontent.com/53067774/161928849-68032390-744e-47a8-803f-00654cbb7efb.jpg" width="18%"></img> <img src="https://user-images.githubusercontent.com/53067774/161928889-6238efcc-653e-4463-b564-5f1c8d754cf3.gif" width="18%"></img> <img src="https://user-images.githubusercontent.com/53067774/161928895-45488b46-10d1-4238-a764-bc21cc25cac3.gif" width="18%"></img> <img src="https://user-images.githubusercontent.com/53067774/161928907-139ea1f6-4572-4037-9ded-d2b9ab8857ba.gif" width="18%"></img> 
 
-| col 1      | col 2      |
-|------------|-------------|
-| <img src="" width="250"> | <img src="" width="250"> |
-
-## Gifs
-![see](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif)
-
-<img src="./assets/image.gif" width="50%" height="50%"/>
 
 ## 🚀 About Me
 I'm a full stack developer...
