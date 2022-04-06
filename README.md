@@ -1,7 +1,7 @@
 
 # Nice Count Down 
 
-This is kind of a contdown function. It's use nice digital counters .
+This is kind of a countdown function. It uses nice digital counters.
 ## Features
 
 - Min and Sec 
@@ -19,10 +19,12 @@ Install my-project with https://jitpack.io/
 
 ```bash
   dependencies {
-	        implementation 'com.github.Mori-hub:Number-Separator:0.1.0'
+	        implementation 'com.github.Mori-hub:NiceCountDownr:1.0.0'
 	}
 ```
-    
+## Version 
+[![](https://jitpack.io/v/Mori-hub/NiceCountDown.svg)](https://jitpack.io/#Mori-hub/NiceCountDown)
+
 ## Usage
 
 ```javascript
