@@ -19,7 +19,7 @@ Install my-project with https://jitpack.io/
 
 ```bash
   dependencies {
-	        implementation 'com.github.Mori-hub:NiceCountDownr:1.0.0'
+	        implementation 'com.github.Mori-hub:NiceCountDown:1.0.0'
 	}
 ```
 ## Version 
